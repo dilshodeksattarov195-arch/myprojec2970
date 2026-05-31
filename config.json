@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdonnect",
+        "uuid": 29171340,
+        "checksum": "nvmwrm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
